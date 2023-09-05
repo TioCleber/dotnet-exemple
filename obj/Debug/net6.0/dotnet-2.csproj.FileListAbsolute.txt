@@ -1,0 +1,15 @@
+C:\Users\cleber\Desktop\dotnet-2\bin\Debug\net6.0\dotnet-2.exe
+C:\Users\cleber\Desktop\dotnet-2\bin\Debug\net6.0\dotnet-2.deps.json
+C:\Users\cleber\Desktop\dotnet-2\bin\Debug\net6.0\dotnet-2.runtimeconfig.json
+C:\Users\cleber\Desktop\dotnet-2\bin\Debug\net6.0\dotnet-2.dll
+C:\Users\cleber\Desktop\dotnet-2\bin\Debug\net6.0\dotnet-2.pdb
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.csproj.AssemblyReference.cache
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.AssemblyInfoInputs.cache
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.AssemblyInfo.cs
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.csproj.CoreCompileInputs.cache
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.dll
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\refint\dotnet-2.dll
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.pdb
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\dotnet-2.genruntimeconfig.cache
+C:\Users\cleber\Desktop\dotnet-2\obj\Debug\net6.0\ref\dotnet-2.dll
